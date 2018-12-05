@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Guru99 Tutorial",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "mongodb": "^3.1.10",
+    "nodemailer": "^4.7.0",
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "author": "Anthony Bertolino <anthonybertolino28@gmail.com>",
+  "license": "ISC"
+}
